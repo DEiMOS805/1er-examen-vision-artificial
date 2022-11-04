@@ -1,0 +1,22 @@
+﻿  hello_world.cpp
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(26,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(27,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(29,60): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(124,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(130,96): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(202,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(203,45): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(283,24): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  ExamenPrimerParcial.vcxproj -> D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\x64\Debug\ExamenPrimerParcial.exe

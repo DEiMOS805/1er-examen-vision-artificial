@@ -1,0 +1,43 @@
+﻿  hello_world.cpp
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(27,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(28,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(30,60): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(125,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(130,96): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(212,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(213,45): warning C4244: '=': conversión de 'float' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(265,32): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(268,49): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(293,20): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(293,56): warning C4804: '<=': uso no seguro del tipo 'bool' en la operación
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(298,27): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(303,27): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(308,28): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(351,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\hello_world.cpp(468,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Generando código
+  1 of 203 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ExamenPrimerParcial.vcxproj -> D:\Todo\ESCOM\Clases\Quinto semestre\Vision artificial\ExamenPrimerParcial\x64\Release\ExamenPrimerParcial.exe
